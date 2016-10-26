@@ -13,4 +13,4 @@ Node.js uses an event-driven, non-blocking I/O model that makes it lightweight a
 
 This is why elegant framework was built with a totally new concept that makes NodeJS code more friendly and easier for building web applications without losing the efficiency of event-driven and non-blocking I/O model.
 
-for more information please visit: http://getelegant.com/
+for more information please visit: http://tutorials.pluralsight.com/node-js/getting-started-with-elegant-node-js-framework?status=in-review
